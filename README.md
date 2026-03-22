@@ -1,4 +1,4 @@
-# 🦆 DuckyQuack: macOS Automation & Research Scripts
+# 🦆 DuckyScriptLib: Automation & Research Scripts
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Device](https://img.shields.io/badge/device-Flipper%20Zero%20%2F%20Rubber%20Ducky-orange)
